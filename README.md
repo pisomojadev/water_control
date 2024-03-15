@@ -11,6 +11,12 @@ A collection of scripts used for water pump and sprinker system control for home
 
 See README for each script
 
+### Supported Controllers
+
+| Controller      | Supported Scripts |
+| ----------- | ----------- |
+|   TBD    | TBD       |
+| TBD   | TBD        |
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
