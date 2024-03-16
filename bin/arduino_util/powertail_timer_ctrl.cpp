@@ -1,4 +1,5 @@
-// This code will turn on the relay for 16 hours and then turn it off for 8 hours repeatedly. Make sure to connect your relay module properly to the Arduino and use an external power supply if needed for the relay. Adjust the relayPin variable to match the pin you've connected your relay to.
+// This code will turn on the relay for 16 hours and then turn it off for 8 hours repeatedly. 
+// Note: Adjust the relayPin variable to match the pin you've connected your relay to.
 
 const int relayPin = 2; // Pin connected to the relay
 
